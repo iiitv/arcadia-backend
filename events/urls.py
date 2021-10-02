@@ -3,5 +3,4 @@ from .views import  EventApi
 
 urlpatterns = [
     path("events/", EventApi, name="events"),
-   
 ]
