@@ -1,2 +1,2 @@
-Django==3.1.13
+Django==3.2.17
 djangorestframework==3.12.4
